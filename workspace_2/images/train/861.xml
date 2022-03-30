@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set1</folder>
+	<filename>861.jpeg</filename>
+	<path>C:\Users\Darsh Patel\Downloads\damage detection dataset\damage detection dataset\set1\861.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>147</ymin>
+			<xmax>151</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>889.jpeg</filename>
+	<path>C:\Users\hetmp\OneDrive\Desktop\Group I\Images\889.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>181</ymin>
+			<xmax>45</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

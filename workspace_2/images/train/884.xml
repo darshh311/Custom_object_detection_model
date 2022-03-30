@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>884.jpeg</filename>
+	<path>C:\Users\hetmp\OneDrive\Desktop\Group I\Images\884.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>90</ymin>
+			<xmax>224</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>19</ymin>
+			<xmax>190</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

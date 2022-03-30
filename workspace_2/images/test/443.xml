@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set1</folder>
+	<filename>443.jpeg</filename>
+	<path>/home/mayank/Desktop/ml-engineer/data/set1/443.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>93</ymin>
+			<xmax>110</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>
